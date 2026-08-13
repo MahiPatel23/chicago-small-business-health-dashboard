@@ -2,6 +2,7 @@
 
 An interactive Power BI dashboard analyzing small business closures across Chicago wards in 2025, built to answer: **which neighborhoods are losing businesses, and why?**
 
+![Dashboard screenshot](dashboard.png)
 
 ## Key Finding
 
@@ -38,4 +39,4 @@ Power BI Desktop (Power Query for ETL, DAX for measures, Shape Map for geographi
 
 ## File
 
-`business-health-dashboard.pbix` — open in Power BI Desktop to explore interactively.
+`business health dashboard.pbix` — open
